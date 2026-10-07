@@ -7,8 +7,8 @@
 
 ### 📝 Sedikit Tentang Saya
 
-- 🎓 Fokus bikin sistem yang beneran kepakai, seperti **sistem presensi sekolah pakai RFID**.
-- 💻 Saat ini sering ngerjain project pakai **Laravel** dan ngulik **IoT (Wemos/ESP8266 + RC522)**.
+- 🎓 Fokus bikin sistem yang beneran kepakai, seperti **sistem presensi sekolah pakai RFID, CRM Salon, Dll**.
+- 💻 Saat ini sering ngerjain project pakai **Laravel** dan ngulik **IoT**.
 - 🤖 Tertarik banget sama **AI Agents** dan integrasinya dengan alur kerja harian (Obsidian).
 - 🛠️ Lebih suka kerja yang efisien: eksekusi ide langsung sampai jadi, baru di-review.
 
