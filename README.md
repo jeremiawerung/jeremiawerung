@@ -1,6 +1,6 @@
 <div align="center">
   <h2>👋 Halo, Saya Jeremia!</h2>
-  <p><b>Pengembang Software & Antusias Hardware</b></p>
+  <p><b>Full-Stack Web Developer | UI/UX & Quality Assurance Enthusiast</b></p>
 </div>
 
 ---
