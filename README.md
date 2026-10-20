@@ -1,20 +1,20 @@
 <div align="center">
-  <h2>👋 Halo, Saya Jeremia!</h2>
+  <h2>👋 Hi, I'm Jeremia!</h2>
   <p><b>Full-Stack Web Developer | UI/UX & Quality Assurance Enthusiast</b></p>
 </div>
 
 ---
 
-### 📝 Sedikit Tentang Saya
+### 📝 A Little Bit About Me
 
-- 🎓 Fokus bikin sistem yang beneran kepakai, seperti **sistem presensi sekolah pakai RFID, CRM Salon, Dll**.
-- 💻 Saat ini sering ngerjain project pakai **Laravel** dan ngulik **IoT**.
-- 🤖 Tertarik banget sama **AI Agents** dan integrasinya dengan alur kerja harian (Obsidian).
-- 🛠️ Lebih suka kerja yang efisien: eksekusi ide langsung sampai jadi, baru di-review.
+- 🎓 Focused on building practical, real-world systems, such as **RFID-based school attendance systems, Salon CRM platforms, and more**.
+- 💻 Currently working on projects using **Laravel** and tinkering with **IoT** development.
+- 🤖 Deeply interested in **AI Agents** and integrating them into daily workflows.
+- 🛠️ Prefer an efficient work style: executing ideas straight to completion, then refining through review.
 
 ---
 
-### 🧰 Bahasa & Tools Andalan
+### 🧰 Languages & Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -30,7 +30,7 @@
 
 ---
 
-### 🤝 Mari Terhubung
+### 🤝 Hit me up!
 
 <p align="center">
   <a href="mailto:jeremia07102004@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -40,7 +40,7 @@
 
 ---
 
-### 📊 Statistik GitHub
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiawerung&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
