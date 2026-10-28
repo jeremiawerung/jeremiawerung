@@ -43,11 +43,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremiawerung&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" />
+  <img src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeremiawerung&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" alt="GitHub Stats" />
+  <img src="./profile/stats.svg" alt="GitHub Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeremiawerung&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&sideNums=C9D1D9&sideLabels=C9D1D9&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9" alt="GitHub Streak" />
